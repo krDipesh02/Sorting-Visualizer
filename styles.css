@@ -1,0 +1,43 @@
+body{
+    display: flex;
+    background-color: black;
+    align-items: center;
+    flex-direction: column;
+    height : 90vh;
+}
+
+#title{
+    color: white;
+}
+h1{
+    padding: 5%;
+}
+
+#container{
+    height: 300px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.bar{
+    height: 100px;
+    width: 5px;
+    background-color: white;
+    margin: 1px;
+    opacity: 0.7;
+    /* border-radius: 20%; */
+}
+
+.bar_compare{
+    background-color: red;
+}
+
+.navbar{
+    margin: 10px;
+    margin-top: 0;
+}
+
+#container{
+    margin: 35px;
+    margin-bottom: 10px;;
+}
