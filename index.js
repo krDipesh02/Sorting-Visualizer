@@ -1,3 +1,5 @@
+//Sorting visualizer 
+
 // declaring size of array and array
 const n = 100;
 const arr = [];
